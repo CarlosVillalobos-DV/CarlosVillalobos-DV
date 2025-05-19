@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👨‍💻 Carlos Villalobos
 
-<!--
-**CarlosVillalobos-DV/CarlosVillalobos-DV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Hola! Soy Carlos Villalobos, estudiante de Desarrollo Web en el COVAO, Costa Rica 🇨🇷. Apasionado por la tecnología, el diseño y la programación. Me encanta crear soluciones web funcionales y bien estructuradas, y siempre estoy buscando nuevas oportunidades para aprender y crecer profesionalmente.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Habilidades y Conocimientos
+
+### 💻 Programación
+
+* **Paradigmas:** Programación Estructurada y Orientada a Objetos (POO)
+* **Lenguajes:**
+
+  * Python 🐍
+  * C++
+  * Java ☕
+  * C#
+  * HTML5 + CSS3
+  * SQL (Bases de datos)
+
+### 🌐 Desarrollo Web
+
+* Diseño de Interfaces Web
+* Maquetación con HTML y CSS
+* Manejo de bases de datos con SQL
+
+### 📘 Metodologías y Herramientas
+
+* Metodologías Ágiles: **Scrum**
+* Modelado con **UML**
+* Citación y formato académico con **APA (American Psychological Association)**
+
+---
+
+## 🚀 Objetivos
+
+* Seguir mejorando mis habilidades como desarrollador web.
+* Participar en proyectos colaborativos y de código abierto.
+* Aplicar mis conocimientos en la solución de problemas reales.
+* Aprender nuevas tecnologías y frameworks modernos.
+
+---
+
+## 📫 Contacto
+
+¿Te interesa colaborar o tienes alguna pregunta? ¡Hablemos!
+
+* 📧 Email: [calvovillalobosc@gmail.com](mailto:calvovillalobosc@gmail.com)
+* 🌐 GitHub: github.com/CarlosVillalobos-DV 
+
+
